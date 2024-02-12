@@ -40,7 +40,7 @@ An iterative Netflix clone project that uses React, Firebase for authentication,
   
 #### Homepage
 
- <img src="https://github.com/jadeli1720/jadeli1720_public/blob/main/home-page.gif" alt="Home page demo">
+ <img src="https://github.com/halsmur/halsmur_public/blob/main/home-page.gif" alt="Home page demo">
 
   </br>
 
@@ -140,7 +140,7 @@ REACT_APP_FIREBASE_APPID=value
 #### :keyboard: Clone
 
 ```shell
-git clone https://github.com/jadeli1720/netflix-clone
+git clone https://github.com/halsmur/netflix-clone
 ```
 
 #### :cd: CD into Project
